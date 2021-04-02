@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.craigcarr.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+	"CraftingScreenHandlerMixin_Utilities"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
